@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Practise:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce2a824e-56f7-48b4-8cd5-b6f49ebddb8f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practise.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Pracrise_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Pracrise_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Pracrise.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/config/HibernateConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/controller/ExceptionHandlerController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/controller/FoodController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/controller/OrderDetailController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/controller/OrdersController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/controller/UserController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dao/FoodDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dao/OrderDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dao/OrderDetailDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dao/UserDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/FoodDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/OrderDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/OrderDetailDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/UserDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/BillDto.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/ExceptionResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/FoodQuantity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/LoginDto.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/OrderDetailDto.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/OrderDto.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/dto/UserDto.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/exception/QuantityException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/exception/UnauthorizedExceptionHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/exception/UserNotFoundException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/model/Food.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/model/OrderDetail.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/model/Orders.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/model/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/service/FoodService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/service/OrderDetailService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/service/OrdersService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/service/UserService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/FoodServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/OrderDetailServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/OrdersServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/UserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/foodordering/test/CalculatorService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/foodordering/test/CalculatorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/foodordering/test/TestClass/Calculator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/foodordering/test/TestUserUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/foodordering/test/UserTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/foodordering/test/CalculatorService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/foodordering/test/CalculatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/foodordering/test/TestClass/Calculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/foodordering/test/TestUserUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/foodordering/test/UserTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/controller/ExceptionHandlerController.class" afterPath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/controller/ExceptionHandlerController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/controller/UserController.class" afterPath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/daoImp/FoodDAOImpl.class" afterPath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/daoImp/FoodDAOImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/dto/UserDto.class" afterPath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/dto/UserDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/model/User.class" afterPath="$PROJECT_DIR$/target/Pracrise/WEB-INF/classes/com/foodordering/model/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/config/HibernateConfig.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/config/HibernateConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/controller/ExceptionHandlerController.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/controller/ExceptionHandlerController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/controller/OrderDetailController.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/controller/OrderDetailController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/controller/OrdersController.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/controller/OrdersController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/controller/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/dao/OrderDAO.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/dao/OrderDAO.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/dao/OrderDetailDAO.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/dao/OrderDetailDAO.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/dao/UserDAO.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/dao/UserDAO.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/FoodDAOImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/FoodDAOImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/OrderDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/OrderDaoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/OrderDetailDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/OrderDetailDaoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/UserDaoImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/daoImp/UserDaoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/dto/UserDto.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/dto/UserDto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/model/OrderDetail.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/model/OrderDetail.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/model/Orders.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/model/Orders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/model/User.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/model/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/service/OrderDetailService.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/service/OrderDetailService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/service/OrdersService.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/service/OrdersService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/serviceImp/OrderDetailServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/serviceImp/OrderDetailServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/serviceImp/OrdersServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/serviceImp/OrdersServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/foodordering/serviceImp/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/foodordering/serviceImp/UserServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Pracrise$Application.coverage" NAME="Application Coverage Results" MODIFIED="1522042077963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.foodordering.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/resource/UserResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#2659#2660#0" expanded="true" />
+                <element signature="e#2705#2706#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JwtFilter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/JwtFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/RestConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebUrlConstant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/WebUrlConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HibernateConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/HibernateConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mynameisakbarkhan</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/controller/ExceptionHandlerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/commons/GenericResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/commons/PageModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/config/SpringSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/util/FoodResUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/OrderDetailDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/dao/OrderDetailDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/service/OrderDetailService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/OrderDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/util/OrderUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/controller/OrderDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/model/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/service/OrdersService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/dao/OrderDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/test/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/test/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/controller/resource/UserResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/config/RestConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/config/HibernateTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/test/testcommons.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/commons/HibernateTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/test/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/test/resource/persistence-generic-entity.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/unittest/commons/HibernateTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/unittest/test/UserDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodorderingtest/config/HibernateTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/resource/persistence.properties" />
+        <option value="$PROJECT_DIR$/src/test/resources/persistence.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/config/HibernateTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/config/HibernateConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/test/UserDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/commons/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/controller/UserTestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/dto/UserDto.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/foodordering/integratetest/UserIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/model/Orders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/controller/FoodController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/foodordering/config/JwtFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="daoImp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceImp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="foodordering" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pracrise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pracrise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.foodordering" />
+      <recent name="com.foodordering.unittest" />
+      <recent name="com.foodordering.commons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\test\resource" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\main\resources" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\main\java\com\foodordering\config" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\main\java\com\foodordering\commons" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.foodordering" />
+      <recent name="com.foodordering.util" />
+      <recent name="com.foodordering.response" />
+      <recent name="com.foodordering.config" />
+      <recent name="com.foodordering.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\test\java\com\foodordering\config" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\main\resources" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src" />
+      <recent name="C:\Users\hello\IdeaProjects\Pracrise\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.foodordering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.foodordering.Application" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Practise" />
+      <envs />
+    </configuration>
+    <configuration name="UserIntegrationTest.testToAddUserByRestTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.foodordering.integratetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Practise" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.foodordering.integratetest" />
+      <option name="MAIN_CLASS_NAME" value="com.foodordering.integratetest.UserIntegrationTest" />
+      <option name="METHOD_NAME" value="testToAddUserByRestTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.foodordering.integratetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Practise" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.foodordering.integratetest" />
+      <option name="MAIN_CLASS_NAME" value="com.foodordering.integratetest.UserIntegrationTest" />
+      <option name="METHOD_NAME" value="testToExchangeAPIByRestTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserIntegrationTest.testToPostForLocationByRestTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.foodordering.integratetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Practise" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.foodordering.integratetest" />
+      <option name="MAIN_CLASS_NAME" value="com.foodordering.integratetest.UserIntegrationTest" />
+      <option name="METHOD_NAME" value="testToPostForLocationByRestTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="UserIntegrationTest.testToRetrieveHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.foodordering.integratetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Practise" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.foodordering.integratetest" />
+      <option name="MAIN_CLASS_NAME" value="com.foodordering.integratetest.UserIntegrationTest" />
+      <option name="METHOD_NAME" value="testToRetrieveHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pracrise" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToRetrieveHeader" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToAddUserByRestTemplate" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToPostForLocationByRestTemplate" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToExchangeAPIByRestTemplate" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Application" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToExchangeAPIByRestTemplate" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToPostForLocationByRestTemplate" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToAddUserByRestTemplate" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UserIntegrationTest.testToRetrieveHeader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2a824e-56f7-48b4-8cd5-b6f49ebddb8f" name="Default" comment="" />
+      <created>1515946864573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515946864573</updated>
+      <workItem from="1515946872317" duration="8270000" />
+      <workItem from="1515990107226" duration="8399000" />
+      <workItem from="1516165623505" duration="3844000" />
+      <workItem from="1516250410703" duration="30926000" />
+      <workItem from="1516459466525" duration="21684000" />
+      <workItem from="1516548534288" duration="3797000" />
+      <workItem from="1516595496346" duration="13202000" />
+      <workItem from="1516682029079" duration="3658000" />
+      <workItem from="1516699846117" duration="7278000" />
+      <workItem from="1517157542181" duration="7378000" />
+      <workItem from="1517200965483" duration="18188000" />
+      <workItem from="1517373258624" duration="2492000" />
+      <workItem from="1517741731531" duration="617000" />
+      <workItem from="1520234899124" duration="2596000" />
+      <workItem from="1520262475796" duration="31000" />
+      <workItem from="1521539735675" duration="8591000" />
+      <workItem from="1521595157509" duration="25406000" />
+      <workItem from="1521695477243" duration="17000" />
+      <workItem from="1521695561737" duration="8403000" />
+      <workItem from="1521951567856" duration="13625000" />
+      <workItem from="1521970929695" duration="9894000" />
+      <workItem from="1522019627535" duration="8069000" />
+      <workItem from="1522029593901" duration="2002000" />
+      <workItem from="1522031666681" duration="1607000" />
+      <workItem from="1522038294488" duration="18022000" />
+      <workItem from="1522142905261" duration="7447000" />
+      <workItem from="1522298088482" duration="16284000" />
+      <workItem from="1522386536913" duration="419000" />
+      <workItem from="1522561396873" duration="8960000" />
+      <workItem from="1522574827885" duration="8571000" />
+      <workItem from="1522643828301" duration="74000" />
+      <workItem from="1522653047416" duration="146000" />
+      <workItem from="1522653866201" duration="93000" />
+      <workItem from="1522729931963" duration="27000" />
+      <workItem from="1522745129217" duration="263000" />
+      <workItem from="1522747788645" duration="220000" />
+      <workItem from="1522755412065" duration="30000" />
+      <workItem from="1523249919837" duration="1949000" />
+      <workItem from="1523606684965" duration="677000" />
+      <workItem from="1524049066965" duration="70000" />
+      <workItem from="1524050987505" duration="259000" />
+      <workItem from="1524117996179" duration="47000" />
+      <workItem from="1525939359257" duration="69000" />
+      <workItem from="1525939560604" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserIntegrationTest_testToExchangeAPIByRestTemplate - 2018.04.01 at 17h 54m 10s.xml">
+      <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToExchangeAPIByRestTemplate - 2018.04.01 at 17h 55m 41s.xml">
+      <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToExchangeAPIByRestTemplate - 2018.04.01 at 17h 57m 28s.xml">
+      <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToExchangeAPIByRestTemplate - 2018.04.01 at 17h 57m 57s.xml">
+      <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToExchangeAPIByRestTemplate - 2018.04.01 at 17h 58m 51s.xml">
+      <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToExchangeAPIByRestTemplate - 2018.04.01 at 18h 01m 33s.xml">
+      <configuration name="UserIntegrationTest.testToExchangeAPIByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToPostForLocationByRestTemplate - 2018.04.01 at 16h 30m 49s.xml">
+      <configuration name="UserIntegrationTest.testToPostForLocationByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToPostForLocationByRestTemplate - 2018.04.01 at 16h 31m 41s.xml">
+      <configuration name="UserIntegrationTest.testToPostForLocationByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToPostForLocationByRestTemplate - 2018.04.01 at 16h 36m 13s.xml">
+      <configuration name="UserIntegrationTest.testToPostForLocationByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserIntegrationTest_testToPostForLocationByRestTemplate - 2018.04.01 at 16h 40m 54s.xml">
+      <configuration name="UserIntegrationTest.testToPostForLocationByRestTemplate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="275121000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770868" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4274448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31844804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1172466" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/OrdersServiceImpl.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.14.RELEASE/spring-beans-4.3.14.RELEASE.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="73" column="1" lean-forward="true" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.14.RELEASE/spring-test-4.3.14.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.14.RELEASE/spring-core-4.3.14.RELEASE.jar!/org/springframework/core/env/PropertyResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/model/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/persistence.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/pada.properties" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/application.properties" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.14.RELEASE/spring-beans-4.3.14.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/foodordering/config/HibernateTestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/commons/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/dto/ExceptionResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/exception/DataBindingErrorMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/foodordering/test/UserDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="30" column="11" lean-forward="false" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="171" lean-forward="false" selection-start-line="11" selection-start-column="171" selection-end-line="11" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.14.RELEASE/spring-test-4.3.14.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="29" column="138" lean-forward="false" selection-start-line="29" selection-start-column="138" selection-end-line="29" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="53" column="173" lean-forward="false" selection-start-line="53" selection-start-column="173" selection-end-line="53" selection-end-column="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.14.RELEASE/spring-test-4.3.14.RELEASE.jar!/org/springframework/test/context/junit4/statements/SpringRepeat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.14.RELEASE/spring-test-4.3.14.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.14.RELEASE/spring-test-4.3.14.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="127" lean-forward="false" selection-start-line="13" selection-start-column="127" selection-end-line="13" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="73" column="206" lean-forward="false" selection-start-line="73" selection-start-column="206" selection-end-line="73" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="145" column="25" lean-forward="false" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/dto/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/web/AbstractErrorController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/foodordering/integratetest/UserIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/model/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/daoImp/OrderDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/foodordering/controller/UserTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="118" column="5" lean-forward="false" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/OrderDetailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/OrdersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/persistence.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE-sources.jar!/org/springframework/boot/web/servlet/FilterRegistrationBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/ExceptionHandlerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/FoodController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/serviceImp/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#2705#2706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/HibernateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/WebUrlConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/RestConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/controller/resource/UserResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/foodordering/config/JwtFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Practise:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (Practise)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|Practise</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
